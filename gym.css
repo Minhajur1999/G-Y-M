@@ -1,0 +1,343 @@
+body{
+	margin: auto;
+    
+}
+
+.up{
+	background-color: white;
+	width: 1263px;
+	height: 100px;
+}
+   .up1{
+	   
+	   width: 280px;
+	   height: 100px;
+	   margin-left: 30px;
+	   margin-top: 3px;
+	   float: left;
+   }
+   .up1 h1{
+	   font-size: 40;
+	   
+	   color: black;
+   }
+   
+ .up2{
+	 background-color:white;
+	 width: 700px;
+	 height: 65px;
+	 float: left;
+	 margin-left: 120px;
+	 margin-top: 22px;
+	 
+ }
+ 
+ 
+ .up2 ul li {
+	 display: inline-block;
+	 
+ }
+ .up2 ul li a{
+	 
+	 margin-left: 20px;
+	 font-size: 26;
+	 color: black;
+	 text-decoration: none;
+	 
+	 
+ }
+ .up2 ul li:hover{
+	 background-color: #fcff18;
+	 color: white;
+ }
+ 
+ 
+ 
+ 
+ 
+ .img{
+	 background: url(backgpic.jpg) no-repeat ;
+	 background-size: cover;
+	 height: 110%;
+	 
+	 
+	
+ }
+ 
+ .img1{
+	 color: #fcff18;
+	 font-size: 55;
+	 padding-top: 140px;
+	 text-align: center;
+ }
+ .img2{
+	 color: white;
+	 font-size: 50;
+	 margin-top: -64px;
+	 text-align: center;
+ }
+ 
+ .img3 button{
+	 background-color: #fcff18;
+	 width: 250px;
+	 padding: 20px;
+	 font-size: 25;
+	 margin-left: 500px;
+	 margin-top: -10px;
+	 border-color: #fcff18;
+	 border-radius: 10px;
+ }
+ 
+ .tx h1{
+	 font-size: 55;
+	 padding: 10px 354px;
+ }
+ 
+ .pro1{
+	 
+	 width: 350px;
+	 height: 230px;
+	 margin-left: 58px;
+	 float: left;
+ }
+ 
+    .pro1 i{
+		font-size: 60;
+		padding-left: 40%;
+		padding-top: 5%;
+		color: #fcff18;
+		
+	}
+	
+	  .pro1 h1{
+		  color: #4e4e4e;
+		  padding-left: 15%;
+		  padding-top: 3%; 
+	  }
+	  
+	  .pro1 h4{
+		  color: #6b6b6b;
+		  padding-left: 6%;
+	  }
+	
+ 
+ .pro2{
+	 
+	 width: 350px;
+	 height: 230px;
+	 float: left;
+	 margin-left: 52px;
+ }
+   .pro2 i{
+		font-size: 60;
+		padding-left: 40%;
+		padding-top: 5%;
+		color: #fcff18;
+	}
+     
+	 .pro2 h1{
+		  color: #4e4e4e;
+		  padding-left: 15%;
+		  padding-top: 3%;
+	 }	
+
+       .pro2 h4{
+		  color: #6b6b6b;
+		  padding-left: 6%;
+	  }	 
+ .pro3{
+	 
+	 width: 350px;
+	 height: 230px;
+	 float: left;
+	 margin-left: 52px;
+ }
+ 
+  .pro3 i{
+		font-size: 60;
+		padding-left: 40%;
+		padding-top: 5%;
+		color: #fcff18;
+	}
+	
+	.pro3 h1{
+		  color: #4e4e4e;
+		  padding-left: 15%;
+		  padding-top: 3%;
+	}
+	
+	.pro3 h4{
+		  color: #6b6b6b;
+		  padding-left: 6%;
+	  }
+	  
+	  
+.parallax{
+	 background-image: url("backpic2.jpg");
+  height: auto;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 300px;
+	
+}
+
+
+.pay h1{
+	color: white;
+	padding-left: 15%;
+	padding-top: 5%;
+	font-size: 60;
+}
+
+.pay i{
+	    font-size: 25;
+		padding-left: 15%;		
+		color: #fcff18;
+		float: left;
+		padding-top: 10px;
+		
+}
+.but{
+	float: left;
+	margin-top: 100px;
+    margin-left: -22%;
+}
+
+  .but button{
+	  background-color: #fcff18;
+      width: 200px;
+      height: 60px;	 
+      border-color: red;
+      font-size: 18;	  
+  }
+ .meet h1{
+    float: left;
+	margin-top: 190px;
+    margin-left: -28%;
+	color: white;
+	font-size: 50;
+	}
+  
+.tna{
+	
+	width: 1200px;
+	height: 820px;
+	margin-top: 25%;
+	margin-left: 30px;
+}
+
+  .tna1{
+	
+	width: 400px;
+	height: 400px;
+	margin-left: 150px;
+	float: left;
+	
+	
+}
+  
+
+    .tna2{
+	
+	width: 400px;
+	height: 400px;
+    margin-left: 100px;
+	float: left;
+}
+
+
+  .tna3{
+	
+	width: 400px;
+	height: 400px;
+	margin-left: 150px;
+	float: left;
+	margin-top: 14px;
+}
+
+  .tna4{
+	
+	width: 400px;
+	height: 400px;
+	margin-left: 100px;
+	float: left;
+	margin-top: 14px;
+}
+
+.tna1 img{
+	width: 280px;
+	height: 220px;
+	padding-left: 60px;
+	border-radius: ;
+}
+
+.tna2 img{
+	width: 280px;
+	height: 220px;
+	padding-left: 60px;
+}
+
+.tna3 img{
+	width: 280px;
+	height: 220px;
+	padding-left: 60px;
+	
+}
+
+.tna4 img{
+	width: 280px;
+	height: 220px;
+	padding-left: 60px;
+}
+
+.tna1 h1{
+	color: #fcff18;
+	text-align: center;
+}
+.tna1 h4{
+	text-align: center;
+	color: white;
+}
+
+.tna2 h1{
+	color:#fcff18;
+	text-align: center;
+}
+
+.tna2 h4{
+	text-align: center;
+	color: white;
+}
+
+.tna3 h1{
+	color: #fcff18;
+	text-align: center;
+}
+
+.tna3 h4{
+	text-align: center;
+	color: white;
+}
+.tna4 h1{
+	color: #fcff18;
+	text-align: center;
+}
+.tna4 h4{
+	text-align: center;
+	color: white;
+}
+
+
+.footer{
+	background-color: #CDC781 ;
+	width: 100%;
+	height: 40px;
+	
+	
+}
+.footer h4{
+	color: #4B4A45;
+	padding: 10px 25%;
+}
